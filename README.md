@@ -1,4 +1,4 @@
-# phoney-honeypot
+# phoney - a honeypot tool
 
 This basic python script monitors a folder for unauthorized access via the command line or GUI; if detected it sends a text alert to your phone!  Note, it requires a Twilio account, set-up, and correlation to your personal device to receive texts; for information on how to get a trial Twilio account please visit https://console.twilio.com/.
 
